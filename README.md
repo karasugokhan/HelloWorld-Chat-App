@@ -1,2 +1,2 @@
-# pet-sitting-app
-SEIS 739 - Pet Sitting App - Gokhan Karasu
+# Chat App
+Gokhan Karasu - HelloWorld(Chat App) - SEIS 739
